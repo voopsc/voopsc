@@ -1,10 +1,11 @@
 ### Hi there I'm Vlad Panov  👋
 
-<h2>I'm glad to see here </h2>
+### I'm glad to see here
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=voopsc.visitor-badge)
 
 <h3>A few facts about me</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voopsc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voopsc)](https://github.com/voopsc/github-readme-stats)
 <!--
 **voopsc/voopsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
